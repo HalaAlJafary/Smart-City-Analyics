@@ -169,6 +169,3 @@ Run the cells from top to bottom. Parts 1 and 2 work without Airflow; Part 3 nee
 
 ---
 
-## 📄 License
-
-Add your preferred license here (e.g., MIT).
